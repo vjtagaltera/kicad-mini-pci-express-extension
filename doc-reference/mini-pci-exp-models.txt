@@ -1,0 +1,20 @@
+
+
+2022-7-29
+
+
+https://www.digikey.ca/en/products/detail/digi/498-0090/5965511
+Digi, base 4.1mm measured
+
+  Digi pn: 498-0090
+  description:  CONN PCI EXP MINI FEMALE 52POS
+
+
+https://www.digikey.ca/en/products/detail/te-connectivity-amp-connectors/2041262-1/5431235
+TE, base 4.1mm measured
+
+  TE pn: 2041262-1
+  description:  CONN PCI EXP MINI FEMALE 52POS
+
+
+
