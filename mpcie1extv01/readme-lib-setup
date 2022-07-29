@@ -1,0 +1,29 @@
+
+
+clone this repo from github:
+
+    git clone https://github.com/pcbt/kicad-mini-pci-express
+
+  it is at:
+
+    $ git remote -v
+    origin  https://github.com/pcbt/kicad-mini-pci-express (fetch)
+    origin  https://github.com/pcbt/kicad-mini-pci-express (push)
+
+    $ git log -1
+    commit 4b2f12fe2e3bad9f1e0857f3252c14455e607113 (HEAD -> master, origin/master, origin/HEAD)
+    Author: pcbt <batutr2@gmail.com>
+    Date:   Tue Jun 12 17:07:39 2018 +0300
+        Footprints exported
+
+
+symbol: 
+
+    migrate the mpcie.lib into mpcie.kicad_sym and include it in kicad for a symbol.
+
+
+footprint:
+
+    include the mpcie.pretty in kicad for a footprint
+
+
