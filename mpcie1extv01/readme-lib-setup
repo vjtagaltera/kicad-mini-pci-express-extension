@@ -24,6 +24,11 @@ symbol:
 
 footprint:
 
-    include the mpcie.pretty in kicad for a footprint
+    include the mpcie.pretty in kicad for a footprint.
+
+
+local-lib: 
+
+    copy the above symbol files and footprint files into local-lib/ directory. 
 
 
